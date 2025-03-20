@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 Listening Beabadoobee","You ought to know that","I think we're one and the same","I don't think we could help it","No, I don't think we could help it","We don't talk much","Guess 'cause nothing has changed","And I'm not sure I like it","And I'm so tired of fighting"," "," ","If I told you, you know how to","Go and break my heart in two","'Cause I would anyways","We'd end up like always","You know me, you better show me","That you could say it to my face","'Cause you know we're the same","There's worse things I can take"," "," ","I know you hate it","When there's nothing to say","I'm not quite sure we'd fix it","Guess we're so used to it","Wish I had known this","From the beginning","We find it hard to work out","Why we have all this doubt"," "," ","If I told you, you know how to","Go and break my heart in two","'Cause I would anyways","We'd end up like always","You know me, you better show me","That you could say it to my face","'Cause you know we're the same","There's worse things I can take"];
+const statusMessages = ["🎧 Listening Pov:u overthinking again.","🎧 Listening POV: you’re tired of life (slowed sad playlist)","🎧 Listening alone... again [a playlist]"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
