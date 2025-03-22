@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 Listening Pov:u overthinking again.","🎧 Listening POV: you’re tired of life (slowed sad playlist)","🎧 Listening alone... again [a playlist]"];
+const statusMessages = ["🎧 Listening the moon is beautiful","🎧 Listening I just want to be loved… {vent playlist}","🎧 Listening Glitchcore/Weirdcore edit audios that make you feel like your in a different universe👾🌈💫","V E N T playlist but with each song it gets more depressing"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
